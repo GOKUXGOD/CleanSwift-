@@ -1,0 +1,11 @@
+{
+    "medias": [
+        "Album",
+        "Artist",
+        "Book",
+        "Movie",
+        "MusicVideo",
+        "Podcast",
+        "Song"
+    ]
+}
